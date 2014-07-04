@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.jonjomckay.com/blog/2013/08/28/how-to-wordpress-for-clients/</loc>
+        <lastmod>2013-08-29T15:20:11+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.jonjomckay.com/</loc>
+        <lastmod>2013-08-29T15:20:11+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.jonjomckay.com/robots.txt</loc>
+        <lastmod>2013-08-27T13:39:47+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.jonjomckay.com/blog/archives/</loc>
+        <lastmod>2013-08-29T15:20:11+01:00</lastmod>
+    </url>
+</urlset>

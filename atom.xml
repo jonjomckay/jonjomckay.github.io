@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title><![CDATA[Jonjo's Blog]]></title>
+	<link href="http://blog.jonjomckay.com/atom.xml" rel="self"/>
+	<link href="http://blog.jonjomckay.com/"/>
+	<updated>2013-08-29T15:20:12+01:00</updated>
+	<id>http://blog.jonjomckay.com/</id>
+	<author>
+		<name><![CDATA[Jonjo McKay]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+
+	
+	<entry>
+		
+			<title type="html"><![CDATA[How To: Wordpress for Clients]]></title>
+		
+		<link href="http://blog.jonjomckay.com/blog/2013/08/28/how-to-wordpress-for-clients/"/>
+		<updated>2013-08-28T12:46:00+01:00</updated>
+		<id>http://blog.jonjomckay.com/blog/2013/08/28/how-to-wordpress-for-clients</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I&rsquo;ve written this blog post to help my clients get to grips with their new Wordpress installations, but it&rsquo;s by no means exclusive to them; feel free to read on, even if we don&rsquo;t work together!</p>
+
+<h3>Pages</h3>
+
+<p>A <strong>page</strong> is for mostly static content; text or information that will rarely change, like <em>About</em> or <em>Contact</em> pages.</p>
+
+<h4>Adding a new Page</h4>
+
+<p>New pages can be created by logging into your Wordpress dashboard <em>(<a href="http://yourdomain.com/wp-admin">http://yourdomain.com/wp-admin</a>)</em>, hovering over the <strong>Pages</strong> menu item on the left-hand side, and then clicking <strong>Add New</strong>.</p>
+
+<p><img src="http://i.xl-cdn.com/jonjomckay/blog/wordpress-page-new.jpg" title="Adding a new page" alt="Adding a new page" /></p>
+
+<h4>Editing a Page</h4>
+
+<p>Already existing pages can be listed, and then edited by you by clicking the <strong>Pages</strong> menu item. This brings up a list of your current pages, which you are now able to select and edit. Find the page you would like to change, and click on the title to bring up the page editor.</p>
+
+<p>In the middle of your screen, there is now a large text editor where you can edit to your heart&rsquo;s content.</p>
+]]>
+		</content>
+	</entry>
+	
+</feed>
